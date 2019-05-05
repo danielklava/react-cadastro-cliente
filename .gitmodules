@@ -1,0 +1,6 @@
+[submodule "nodejs-rest-api-cliente"]
+	path = nodejs-rest-api-cliente
+	url = https://github.com/danielklava/nodejs-rest-api-cliente.git
+[submodule "reactjs-cadastro-cliente"]
+	path = reactjs-cadastro-cliente
+	url = https://github.com/danielklava/reactjs-cadastro-cliente
