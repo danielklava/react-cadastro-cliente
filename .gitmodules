@@ -4,3 +4,6 @@
 [submodule "reactjs-cadastro-cliente"]
 	path = reactjs-cadastro-cliente
 	url = https://github.com/danielklava/reactjs-cadastro-cliente
+
+[submodule "RNCadastroCliente"]
+	path = RNCadastroCliente url = https://github.com/danielklava/RNCadastroCliente
